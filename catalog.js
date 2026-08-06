@@ -1,10 +1,10 @@
 window.OLD_SOUL_GEM = {
-  imageSource: "https://raw.githubusercontent.com/milanesajade-art/OldSoulGemzz/main/assets/ring-grid.jpg",
+  imageSource: "https://raw.githubusercontent.com/milanesajade-art/OldSoulGemzz/main/assets/ring-grid.jpg?v=20260805-2",
 
   links: {
     etsy: "https://www.etsy.com/shop/OldSoulGemGND",
     facebook: "https://www.facebook.com/share/1HM9DEf6BP/",
-    instagram: ""
+    instagram: "https://www.instagram.com/old.soul.gem/"
   },
 
   collections: [
